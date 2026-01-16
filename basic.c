@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Need to score good in GATE 2026");
+    printf("Hello World\n");
     return 0;
 }
